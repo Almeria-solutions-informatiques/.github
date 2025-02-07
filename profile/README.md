@@ -1,4 +1,4 @@
-![](img\banner.png "Almeria")
+![](img/banner.png "Almeria")
 
 # Almeria Solutions Informatiques
 
